@@ -58,12 +58,11 @@ OK
 
 teste_02
 
-https://colab.research.google.com/drive/1fENdsWzRdPN5vGEYBlNFXQW364enPYNp?usp=sharing
+https://colab.research.google.com/drive/1ttC4INe5HregXFYf5uwKPJHkKd0kADzt?usp=sharing
 
-Ran 9 tests in 0.009s
+Ran 4 tests in 0.007s
 
 OK
-
 
 
 
