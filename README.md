@@ -69,7 +69,9 @@ OK
 
 
 
+teste_03
 
+https://colab.research.google.com/drive/10M9orXRXASvvvUvjDftGpccNJSBjHKZv?usp=sharing
 
 
 
@@ -90,5 +92,4 @@ OK
 
 Conclusão Final
 
-O aprendizado mais importante foi entender como a qualidade impacta diretamente o sucesso de um software. Agora enxergo o QA como fundamental para qualquer projeto na área de Tecnologia da Informação. A ferramenta que mais me chamou atenção foi o **GitHub**, pela facilidade de colaboração e versionamento de código.
-
+A disciplina de Quality Assurance proporcionou uma compreensão sólida sobre a importância da qualidade no desenvolvimento de software, bem como das práticas e ferramentas que garantem a entrega de sistemas confiáveis. Considero que o conhecimento adquirido será essencial para minha formação e atuação profissional na área de Gestão da Tecnologia da Informação, especialmente em ambientes que demandam processos bem estruturados e foco na excelência operacional. Destaco, ainda, que a ferramenta GitHub se mostrou fundamental para o versionamento e a colaboração em projetos, reforçando a relevância do uso de plataformas que promovem a integração e a automação no ciclo de desenvolvimento de software.
