@@ -46,3 +46,5 @@ class TestCalculadora(unittest.TestCase):
 # Para executar os testes no Colab, precisamos usar o seguinte:
 if __name__ == '__main__':
     unittest.main(argv=['first-arg-is-ignored'], exit=False)
+
+
